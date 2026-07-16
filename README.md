@@ -223,7 +223,7 @@ modular growth:
    **AI‑driven correlation** for automated threat
    summarization.
 
-![Project Architecture Diagram](/home/andrew/Agentic-SOC-Lab/images/CybrSEC_KVMlab.drawio.svg)
+![Project Architecture Diagram](images/CybrSEC_KVMlab.drawio.svg)
 
 '''
 
